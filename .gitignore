@@ -1,0 +1,6 @@
+*.log
+*.intunewin
+inventory-*.json
+intune-device-report*.csv
+TestResults.xml
+.vscode/
